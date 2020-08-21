@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
-
-Application application;
+Application app = new Application("start excution or these method in javava")
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 
