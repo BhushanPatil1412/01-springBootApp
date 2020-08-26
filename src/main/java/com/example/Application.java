@@ -23,5 +23,8 @@ public class Application {
 		 void m5() {
 			 System.out.println("M5 methods");
 		 }
-		 
-}
+   
+	void m6() {
+		System.out.println("m6 method");
+	}
+	}
