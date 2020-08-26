@@ -12,27 +12,8 @@ public class Application {
 
 
 
-
-
-
-
-
-
-
-
-
-
-public staticvoid add() {
-
-}
-
-
-
-
-
-
-
-
-	}
-
+		 public void m2() {
+			 System.out.println("saisha");
+			 
+		 }
 }
