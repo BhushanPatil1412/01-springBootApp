@@ -20,11 +20,5 @@ public class Application {
 			 
 			 System.out.println("m3 file");
 		 }
-		 void m5() {
-			 System.out.println("M5 methods");
-		 }
-   
-	void m6() {
-		System.out.println("m6 method");
-	}
+		 
 	}
